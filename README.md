@@ -19,7 +19,7 @@
 - JSON 타입 정렬 사이트 [http://json.parser.online.fr/]
 - CSS 코드 정렬 사이트 [https://prettydiff.com/?m=beautify]
 - gitignore.io 만들어 주는 사이트 [https://www.toptal.com/developers/gitignore]
-
+- 인터넷 속도 테스트 [https://fast.com/]
 
 ## 자료구조 관련
 
