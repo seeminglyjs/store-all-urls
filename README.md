@@ -21,7 +21,9 @@
 - gitignore.io 만들어 주는 사이트 [https://www.toptal.com/developers/gitignore]
 - 인터넷 속도 테스트 [https://fast.com/]
 
-## 자료구조 관련
+## CHAT_GPT 
+
+- 개발자를 위한 GPT-4 기반 검색 엔진 [https://www.phind.com/]
 
 
 ## 이력서 관련
