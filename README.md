@@ -6,5 +6,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 [https://www.youtube.com/watch?v=w4fWgLgop5U&ab_channel=%ED%86%A0%EC%8A%A4]
 
-## 자료구조 관련Cancel changes
+
+## 자료구조 관련
 
