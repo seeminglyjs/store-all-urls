@@ -13,3 +13,7 @@
 
 ## 자료구조 관련
 
+
+## 이력서 관련
+- 주니어 개발자 이력서
+[https://github.com/codingmonster-tv/Awesome_Resume_Portfolio]
