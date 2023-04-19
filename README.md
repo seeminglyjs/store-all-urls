@@ -14,7 +14,8 @@
 
 - IP 주소 10진법 변환 [https://awebanalysis.com/ko/ip-address-to-decimal/]
 - IDE 없이 코딩하는 사이트 [https://www.jdoodle.com/]
-- IDE 없이 코딩하는 사이트2 [https://www.ryugod.com/pages/%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD/bash/Hello,%20World!.template]
+- IDE 없이 코딩하는 사이트2 [https://www.ryugod.com/pages/ide/bash]
+
 
 - UML 만드는 사이트(AWS 아키텍처 만들수도 있음!) [https://app.diagrams.net/]
 - ERD 만드는 사이트 [https://aquerytool.com/]
