@@ -14,12 +14,16 @@
 
 - IP 주소 10진법 변환 [https://awebanalysis.com/ko/ip-address-to-decimal/]
 - IDE 없이 코딩하는 사이트 [https://www.jdoodle.com/]
+- IDE 없이 코딩하는 사이트2 [https://www.ryugod.com/pages/%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD/bash/Hello,%20World!.template]
+
 - UML 만드는 사이트(AWS 아키텍처 만들수도 있음!) [https://app.diagrams.net/]
 - ERD 만드는 사이트 [https://aquerytool.com/]
 - JSON 타입 정렬 사이트 [http://json.parser.online.fr/]
 - CSS 코드 정렬 사이트 [https://prettydiff.com/?m=beautify]
 - gitignore.io 만들어 주는 사이트 [https://www.toptal.com/developers/gitignore]
 - 인터넷 속도 테스트 [https://fast.com/]
+- Spring 프로젝트 셋팅 사이트 [https://start.spring.io/]
+
 
 ## CHAT_GPT 
 
