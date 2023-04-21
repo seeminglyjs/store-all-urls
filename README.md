@@ -24,7 +24,13 @@
 - 인터넷 속도 테스트 [https://fast.com/]
 - Spring 프로젝트 셋팅 사이트 [https://start.spring.io/]
 - CIDR 서브넷 주소 만드는 사이트 [https://cidr.xyz/]
-- SQL 정렬해주는 사이트 [https://www.dpriver.com/pp/sqlformat.htm]
+- SQL 정렬해주는 사이트 [https://www.dpriver.com/pp/sqlformat.html]
+- 무료 도메인 등록사이트  [https://www.freenom.com/en/index.html?lang=en]
+- html 정렬 사이트  [https://wepplication.github.io/tools/beautifyCode/]
+- 정규식 검증 사이트  [https://regex101.com/]
+- SSL 인증서 검증 사이트 [https://www.sslshopper.com/ssl-checker.html]
+- SSL 인증서 검증 사이트 [https://www.sslshopper.com/ssl-checker.html]
+- SOAP 형식 검증/정렬사이트 [https://elmah.io/tools/xml-formatter/]
 
 
 
