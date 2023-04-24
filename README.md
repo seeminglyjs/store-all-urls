@@ -17,9 +17,6 @@
 - IDE 없이 코딩하는 사이트2[추천] [https://www.ryugod.com/pages/ide/bash]
 - UML 만드는 사이트(AWS 아키텍처 만들수도 있음!) [https://app.diagrams.net/]
 - ERD 만드는 사이트 [https://aquerytool.com/]
-- JSON 정렬 사이트1 [http://json.parser.online.fr/]
-- JSON 정렬 사이트2[추천] [https://jsonformatter.curiousconcept.com/#]
-- CSS 코드 정렬 사이트 [https://prettydiff.com/?m=beautify]
 - gitignore.io 만들어 주는 사이트 [https://www.toptal.com/developers/gitignore]
 - 인터넷 속도 테스트 [https://fast.com/]
 - Spring 프로젝트 셋팅 사이트 [https://start.spring.io/]
@@ -29,10 +26,18 @@
 - html 정렬 사이트  [https://wepplication.github.io/tools/beautifyCode/]
 - 정규식 검증 사이트  [https://regex101.com/]
 - SSL 인증서 검증 사이트 [https://www.sslshopper.com/ssl-checker.html]
-- SSL 인증서 검증 사이트 [https://www.sslshopper.com/ssl-checker.html]
 - SOAP 형식 검증/정렬사이트 [https://elmah.io/tools/xml-formatter/]
-- css 코드 생성기 [https://webcode.tools/generators/css/keyframe-animation]
 
+### CSS
+- CSS 코드 생성기 [https://webcode.tools/generators/css/keyframe-animation]
+- CSS 코드 정렬 사이트 [https://prettydiff.com/?m=beautify]
+
+### JSON
+- JSON 정렬 사이트1 [http://json.parser.online.fr/]
+- JSON 정렬 사이트2[추천] [https://jsonformatter.curiousconcept.com/#]
+
+### 보안
+Hashids 로 난독화하여 ID 노출하지 않기 [https://json.media/blog/obfuscate_with_hashids_to_avoid_exposing_ids]
 
 ## CHAT_GPT 
 
