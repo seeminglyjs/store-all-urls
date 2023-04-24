@@ -1,14 +1,5 @@
 
 
-## JAVA 관련
-
-- 메모리 누수[`토스ㅣSLASH 22 - Java Native Memory Leak 원인을 찾아서`] 
-
-[https://www.youtube.com/watch?v=w4fWgLgop5U&ab_channel=%ED%86%A0%EC%8A%A4]
-
-- 자바 메모리 최적화 [`Basic Memory-Saving Techniques for Java Programming`]
-
-[https://medium.com/javarevisited/basic-memory-saving-techniques-for-java-programming-6677a7237a69]
 
 ## 유용한 유틸사이트
 
@@ -36,7 +27,22 @@
 - JSON 정렬 사이트1 [http://json.parser.online.fr/]
 - JSON 정렬 사이트2[추천] [https://jsonformatter.curiousconcept.com/#]
 
-### 보안
+<hr>
+
+## JAVA 관련
+
+- 메모리 누수[`토스ㅣSLASH 22 - Java Native Memory Leak 원인을 찾아서`] 
+
+[https://www.youtube.com/watch?v=w4fWgLgop5U&ab_channel=%ED%86%A0%EC%8A%A4]
+
+- 자바 메모리 최적화 [`Basic Memory-Saving Techniques for Java Programming`]
+
+[https://medium.com/javarevisited/basic-memory-saving-techniques-for-java-programming-6677a7237a69]
+
+
+
+
+## 보안
 Hashids 로 난독화하여 ID 노출하지 않기 [https://json.media/blog/obfuscate_with_hashids_to_avoid_exposing_ids]
 
 ## CHAT_GPT 
