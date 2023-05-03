@@ -40,7 +40,8 @@
 
 [https://medium.com/javarevisited/basic-memory-saving-techniques-for-java-programming-6677a7237a69]
 
-
+### 암호화 관련
+Bcrypt 암호화 github 저장소 [https://github.com/jeremyh/jBCrypt]
 
 
 ## 보안
