@@ -48,6 +48,9 @@
 ### 암호화 관련
 Bcrypt 암호화 github 저장소 [https://github.com/jeremyh/jBCrypt]
 
+### 통신
+TCP/IP 주요 프로토콜 [https://yozm.wishket.com/magazine/detail/2005/]
+
 
 ## 보안
 Hashids 로 난독화하여 ID 노출하지 않기 [https://json.media/blog/obfuscate_with_hashids_to_avoid_exposing_ids]
