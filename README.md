@@ -41,6 +41,10 @@
 
 [https://medium.com/javarevisited/basic-memory-saving-techniques-for-java-programming-6677a7237a69]
 
+- 자바 개발자를 위한 컨테이너 제작 방법 
+
+[https://yozm.wishket.com/magazine/detail/2018/]
+
 ### 암호화 관련
 Bcrypt 암호화 github 저장소 [https://github.com/jeremyh/jBCrypt]
 
