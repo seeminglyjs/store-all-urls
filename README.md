@@ -71,3 +71,10 @@ Hashids 로 난독화하여 ID 노출하지 않기 [https://json.media/blog/obfu
 
 - 주니어 개발자 이력서
 [https://github.com/codingmonster-tv/Awesome_Resume_Portfolio]
+
+## 주니어
+
+- 주니어 개발자가 읽은만한 아티클 [https://f-lab.kr/blog/developer-tech-article-zip]
+
+
+
