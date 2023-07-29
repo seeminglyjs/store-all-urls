@@ -60,8 +60,8 @@ TCP/IP 주요 프로토콜 [https://yozm.wishket.com/magazine/detail/2005/]
 <hr>
 
 ## 보안
-Hashids 로 난독화하여 ID 노출하지 않기 [https://json.media/blog/obfuscate_with_hashids_to_avoid_exposing_ids]
-http permissionspolicy 생성 사이트 [https://www.permissionspolicy.com/]
+- Hashids 로 난독화하여 ID 노출하지 않기 [https://json.media/blog/obfuscate_with_hashids_to_avoid_exposing_ids]
+- http permissionspolicy 생성 사이트 [https://www.permissionspolicy.com/]
 <hr>
 
 ## CHAT_GPT 
@@ -72,7 +72,7 @@ http permissionspolicy 생성 사이트 [https://www.permissionspolicy.com/]
 
 - 주니어 개발자 이력서
 [https://github.com/codingmonster-tv/Awesome_Resume_Portfolio]
-
+<hr>
 ## 주니어
 
 - 주니어 개발자가 읽은만한 아티클 [https://f-lab.kr/blog/developer-tech-article-zip]
