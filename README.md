@@ -26,6 +26,7 @@
 - HTML / JavaScript 코드 정렬 사이트 [https://wepplication.github.io/tools/beautifyCode/]
 - 웹 관련 다양한 테스트를 해볼 수 있는 사이트 [https://www.whatsmyip.org/]
 - 이미지 파일을 PDF 로 바꿔주는 사이트 [https://png2pdf.com/]
+- URL 인코딩 / 디코딩 [https://www.convertstring.com/ko/EncodeDecode/UrlEncode]
 
 ### CSS
 - CSS 코드 생성기 [https://webcode.tools/generators/css/keyframe-animation]
